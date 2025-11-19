@@ -1,0 +1,5 @@
+requests>=2.31.0
+tqdm>=4.66.1
+websockets>=11.0.3
+pytest>=9.0.1
+coverage>=7.2.6
