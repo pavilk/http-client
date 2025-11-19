@@ -1,6 +1,5 @@
 
 
-````markdown
 # HTTP Client
 
 Универсальный HTTP/HTTPS клиент на Python с поддержкой:
