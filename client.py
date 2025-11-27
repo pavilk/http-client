@@ -5,7 +5,7 @@ from tqdm import tqdm
 from http_request import HttpRequest
 from requests.auth import HTTPBasicAuth
 import websockets
-import websocket
+
 
 class Client:
     session = requests.Session()
